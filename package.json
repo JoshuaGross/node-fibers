@@ -15,7 +15,7 @@
 		"type": "git",
 		"url": "git://github.com/laverdet/node-fibers.git"
 	},
-	"os": ["darwin", "linux"],
+	"os": ["darwin", "linux", "sunos"],
 	"engines": {
 		"node": ">=0.5.2"
 	}
