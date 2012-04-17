@@ -9,7 +9,7 @@
 	"main": "fibers",
 	"scripts": {
 		//"install": "make clean native"
-		//"install": "make clean"
+		"install": "make clean"
 	},
 	"man": "./man/fibers.1",
 	"repository": {
